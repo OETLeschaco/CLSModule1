@@ -511,8 +511,8 @@ vb:[-2,-2,150,30]
 Slide390:{
 lb:'',
 id:390,
-from:1,
-to:90,
+from:1441,
+to:1530,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2576,6 +2576,7 @@ efph:{
 }
 ,
 eflh:[],
+oca:'{"scripts":[{"then":[["cp.goToSlide(8031,1004);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -9842,7 +9843,7 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-5024:{
+2390:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
@@ -9850,7 +9851,7 @@ ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-2390:{
+5024:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
