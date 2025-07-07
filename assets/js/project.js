@@ -10222,7 +10222,7 @@ vbwr:[-1,-1,1,1],
 vb:[-1,-1,1,1]
 },
 si2082:{
-name:'Understanding_CLS(2)_2',
+name:'Understanding_CLS(3)',
 type:15,
 from:361,
 to:450,
@@ -10274,10 +10274,10 @@ o:1
 o:100,
 tiletype:1,
 imageFocus:0,
-irw:819,
-irh:911,
-w:819,
-h:911,
+irw:1024,
+irh:1139,
+w:1024,
+h:1139,
 x:0,
 y:0
 }
@@ -10301,7 +10301,7 @@ siq:false,
 isDD:false
 },
 si2082c:{
-b:[0,0,819,911],
+b:[0,0,1024,1139],
 fh:false,
 fw:false,
 uid:2082,
@@ -10388,7 +10388,7 @@ ipiv:1
 }
 ,
 sr:cp.fd,
-ip:'dr/01155.png',
+ip:'dr/08521.png',
 dn:'si2082',
 visible:1,
 effectiveVi:1,
@@ -10401,8 +10401,8 @@ ss:0,
 sa:1,
 se:false,
 o:100,
-vbwr:[-1,-1,820,912],
-vb:[-1,-1,820,912]
+vbwr:[-1,-1,1025,1140],
+vb:[-1,-1,1025,1140]
 },
 si2110:{
 name:'Image_Group_Text_9',
@@ -13238,7 +13238,7 @@ vbwr:[-1,-1,1,1],
 vb:[-1,-1,1,1]
 },
 si1352:{
-name:'Why_CLS',
+name:'Why_CLS(2)',
 type:15,
 from:451,
 to:540,
@@ -13404,7 +13404,7 @@ ipiv:1
 }
 ,
 sr:cp.fd,
-ip:'dr/02375.png',
+ip:'dr/08524.png',
 dn:'si1352',
 visible:1,
 effectiveVi:1,
@@ -16254,7 +16254,7 @@ vbwr:[-1,-1,1,1],
 vb:[-1,-1,1,1]
 },
 si2450:{
-name:'CLS_Data',
+name:'CLS_Data(2)',
 type:15,
 from:541,
 to:630,
@@ -16420,7 +16420,7 @@ ipiv:1
 }
 ,
 sr:cp.fd,
-ip:'dr/02746.png',
+ip:'dr/08527.png',
 dn:'si2450',
 visible:1,
 effectiveVi:1,
@@ -53231,7 +53231,7 @@ prjBgColor:'#ffffff',
 pkt:0,
 htmlBgColor:'#f5f4f1',
 shc:false,
-pN:'2025-07-03 CLS Quick Guide.cpt'
+pN:'2025-07-07 CLS Quick Guide.cpt'
 },
 projectThemeData:{
 customisations:'{"user_renames":{}}',
@@ -53435,15 +53435,6 @@ ipiv:{
 
 }
 ,{
-ip:'dr/01155.png',
-ipiv:{
-430:1,
-768:1,
-1366:1
-}
-
-}
-,{
 ip:'dr/01862.png',
 ipiv:{
 430:1,
@@ -53490,24 +53481,6 @@ ipiv:{
 }
 ,{
 ip:'dr/02061.jpg',
-ipiv:{
-430:1,
-768:1,
-1366:1
-}
-
-}
-,{
-ip:'dr/02375.png',
-ipiv:{
-430:1,
-768:1,
-1366:1
-}
-
-}
-,{
-ip:'dr/02746.png',
 ipiv:{
 430:1,
 768:1,
@@ -53641,6 +53614,33 @@ ipiv:{
 }
 
 }
+,{
+ip:'dr/08521.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
+,{
+ip:'dr/08524.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
+,{
+ip:'dr/08527.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
 ];
 cp.model.imageresources=[{
 slideID:0,
@@ -53666,21 +53666,21 @@ resources:['dr/01001.svg','dr/01862.png','dr/01929.png','dr/01996.png','dr/02055
 ,{
 slideID:3,
 ResourceList:{
-resources:['dr/01001.svg','dr/01155.png','dr/0568.svg']
+resources:['dr/01001.svg','dr/0568.svg','dr/08521.png']
 }
 
 }
 ,{
 slideID:4,
 ResourceList:{
-resources:['dr/01001.svg','dr/02375.png','dr/0568.svg']
+resources:['dr/01001.svg','dr/0568.svg','dr/08524.png']
 }
 
 }
 ,{
 slideID:5,
 ResourceList:{
-resources:['dr/01001.svg','dr/02746.png','dr/0568.svg']
+resources:['dr/01001.svg','dr/0568.svg','dr/08527.png']
 }
 
 }
