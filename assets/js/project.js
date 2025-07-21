@@ -511,8 +511,8 @@ vb:[-2,-2,150,30]
 Slide390:{
 lb:'',
 id:390,
-from:3331,
-to:3420,
+from:3421,
+to:3510,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -597,8 +597,8 @@ visible:'1'
 si8230:{
 name:'Block_InputField_1',
 type:1268,
-from:91,
-to:180,
+from:3511,
+to:3600,
 rp:0,
 rpa:0,
 mdi:'si8230c',
@@ -787,8 +787,8 @@ vb:[-1,-1,1,1]
 si8238:{
 name:'Block_InputField_Group_1',
 type:1268,
-from:91,
-to:180,
+from:3511,
+to:3600,
 rp:0,
 rpa:0,
 mdi:'si8238c',
@@ -1274,8 +1274,8 @@ vb:[-2,-2,-1,-1]
 si8286:{
 name:'Button_187',
 type:29,
-from:91,
-to:180,
+from:3511,
+to:3600,
 rp:0,
 rpa:0,
 mdi:'si8286c',
@@ -1303,7 +1303,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"conditionType":1,"condition":"cp.compareVariableValue(8284,\\"Cls!quick/guide\\",39)","then":[["cp.goToSlide(8520,8229);"]]}]}',
+oca:'{"scripts":[{"conditionType":1,"condition":"cp.compareVariableValue(8284,\\"Cls!quick/guide\\",39)","then":[["cp.goToSlide(8520,1004);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -1430,8 +1430,8 @@ vb:[-2,-2,-1,-1]
 Slide404:{
 lb:'Chapter 1',
 id:404,
-from:91,
-to:180,
+from:3511,
+to:3600,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -7115,8 +7115,8 @@ vb:[-2,-2,-1,-1]
 Slide1004:{
 lb:'Main Menu',
 id:1004,
-from:181,
-to:270,
+from:3601,
+to:3690,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -9782,8 +9782,8 @@ vb:[-2,-2,-1,-1]
 Slide8229:{
 lb:'Chapter 1 - 1',
 id:8229,
-from:271,
-to:360,
+from:3691,
+to:3780,
 iols:0,
 i360qs:false,
 sdu:3,
