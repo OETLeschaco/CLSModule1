@@ -511,8 +511,8 @@ vb:[-2,-2,150,30]
 Slide390:{
 lb:'',
 id:390,
-from:3961,
-to:4050,
+from:1,
+to:90,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -597,8 +597,8 @@ visible:'1'
 si8230:{
 name:'Block_InputField_1',
 type:1268,
-from:4051,
-to:4140,
+from:91,
+to:180,
 rp:0,
 rpa:0,
 mdi:'si8230c',
@@ -787,8 +787,8 @@ vb:[-1,-1,1,1]
 si8238:{
 name:'Block_InputField_Group_1',
 type:1268,
-from:4051,
-to:4140,
+from:91,
+to:180,
 rp:0,
 rpa:0,
 mdi:'si8238c',
@@ -1274,8 +1274,8 @@ vb:[-2,-2,-1,-1]
 si8286:{
 name:'Button_187',
 type:29,
-from:4051,
-to:4140,
+from:91,
+to:180,
 rp:0,
 rpa:0,
 mdi:'si8286c',
@@ -1430,8 +1430,8 @@ vb:[-2,3,-1,4]
 Slide404:{
 lb:'Chapter 1',
 id:404,
-from:4051,
-to:4140,
+from:91,
+to:180,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -7115,8 +7115,8 @@ vb:[-2,-2,-1,-1]
 Slide1004:{
 lb:'Main Menu',
 id:1004,
-from:3601,
-to:3690,
+from:181,
+to:270,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -7171,15 +7171,15 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
+2390:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
 3742:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
 5024:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
-2390:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -9782,8 +9782,8 @@ vb:[-2,-2,-1,-1]
 Slide8229:{
 lb:'Chapter 1 - 1',
 id:8229,
-from:3691,
-to:3780,
+from:271,
+to:360,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -15524,7 +15524,7 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-9416:{
+9486:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
@@ -15532,7 +15532,7 @@ ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-9486:{
+9416:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -61090,8 +61090,8 @@ visible:'1'
 si8954:{
 name:'Image_Grid_2',
 type:1268,
-from:4141,
-to:4230,
+from:1621,
+to:1710,
 rp:0,
 rpa:0,
 mdi:'si8954c',
@@ -62260,8 +62260,8 @@ vb:[-2,-2,-1,-1]
 si8674:{
 name:'Image_Grid_Group_8',
 type:1268,
-from:4141,
-to:4230,
+from:1621,
+to:1710,
 rp:0,
 rpa:0,
 mdi:'si8674c',
@@ -63098,8 +63098,8 @@ vb:[-1,-1,2,2]
 si8668:{
 name:'Button_191',
 type:29,
-from:4141,
-to:4230,
+from:1621,
+to:1710,
 rp:0,
 rpa:0,
 mdi:'si8668c',
@@ -66678,8 +66678,8 @@ vb:[-2,-2,-1,-1]
 Slide8977:{
 lb:'Chapter 2 Menu',
 id:8977,
-from:4141,
-to:4230,
+from:1621,
+to:1710,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -66734,11 +66734,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-8580:{
+25694:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-25694:{
+8580:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
@@ -81551,12 +81551,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-12129:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 12110:{
 ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+12129:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -96364,12 +96364,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-13076:{
-ts:''
-}
-,
 13098:{
 ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+13076:{
+ts:''
 }
 
 }
@@ -111127,8 +111127,8 @@ vb:[-2,-2,-1,-1]
 Slide14506:{
 lb:'Chapter 2 Filters A',
 id:14506,
-from:4231,
-to:4320,
+from:1891,
+to:1980,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -140821,11 +140821,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-20536:{
+20514:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-20514:{
+20536:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -143842,11 +143842,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-21235:{
+20713:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-20713:{
+21235:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -146863,11 +146863,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-21242:{
+21030:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-21030:{
+21242:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -149884,11 +149884,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-21361:{
+21383:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-21383:{
+21361:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -150922,8 +150922,8 @@ vb:[-1,-1,2,2]
 si22512:{
 name:'Block_Button_21',
 type:1268,
-from:4321,
-to:4410,
+from:2431,
+to:2520,
 rp:0,
 rpa:0,
 mdi:'si22512c',
@@ -151090,8 +151090,8 @@ vb:[-1,-1,1,1]
 si22506:{
 name:'Block_Button_Group_21',
 type:1268,
-from:4321,
-to:4410,
+from:2431,
+to:2520,
 rp:0,
 rpa:0,
 mdi:'si22506c',
@@ -151451,8 +151451,8 @@ vb:[-2,1,-1,2]
 si22372:{
 name:'Button_317',
 type:29,
-from:4321,
-to:4410,
+from:2431,
+to:2520,
 rp:0,
 rpa:0,
 mdi:'si22372c',
@@ -152847,8 +152847,8 @@ vb:[-2,-2,-1,-1]
 Slide22534:{
 lb:'Chapter 2 Helpfull tips D',
 id:22534,
-from:4321,
-to:4410,
+from:2431,
+to:2520,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -158947,11 +158947,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-22031:{
+22009:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-22009:{
+22031:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -164989,11 +164989,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-22978:{
+23000:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-23000:{
+22978:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -168010,11 +168010,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-23323:{
+23301:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-23301:{
+23323:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -183882,7 +183882,7 @@ prjBgColor:'#ffffff',
 pkt:0,
 htmlBgColor:'#f5f4f1',
 shc:false,
-pN:'2025-07-21 CLS Quick Guide.cpt'
+pN:'2025-07-22 CLS Quick Guide.cpt'
 },
 projectThemeData:{
 customisations:'{"user_renames":{}}',
@@ -184261,15 +184261,6 @@ ipiv:{
 }
 ,{
 ip:'dr/013164.png',
-ipiv:{
-430:1,
-768:1,
-1366:1
-}
-
-}
-,{
-ip:'dr/013182.png',
 ipiv:{
 430:1,
 768:1,
@@ -184839,35 +184830,35 @@ resources:['dr/01001.svg','dr/013155.jpg','dr/013158.jpg','dr/013161.jpg','dr/01
 ,{
 slideID:18,
 ResourceList:{
-resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/010573.svg','dr/012133.png','dr/012136.svg','dr/013182.png','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
+resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/012133.png','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
 }
 
 }
 ,{
 slideID:19,
 ResourceList:{
-resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/010573.svg','dr/012136.svg','dr/013164.png','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
+resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/013164.png','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
 }
 
 }
 ,{
 slideID:20,
 ResourceList:{
-resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/017546.png','dr/017555.svg','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
+resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/017546.png','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
 }
 
 }
 ,{
 slideID:21,
 ResourceList:{
-resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/017546.png','dr/017555.svg','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
+resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/017546.png','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
 }
 
 }
 ,{
 slideID:22,
 ResourceList:{
-resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/017546.png','dr/017555.svg','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
+resources:['dr/01001.svg','dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/017546.png','dr/0568.svg','dr/07913.svg','dr/09837.png','dr/09961.png']
 }
 
 }
