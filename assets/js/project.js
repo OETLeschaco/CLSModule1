@@ -7171,15 +7171,15 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-2390:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 3742:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
 5024:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+2390:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -10926,6 +10926,7 @@ efph:{
 }
 ,
 eflh:[],
+oca:'{"scripts":[{"then":[["cp.goToSlide(9346,2374);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -10952,7 +10953,7 @@ siq:false,
 isDD:false
 },
 si9364c:{
-b:[-2,-2,-1,-1],
+b:[-2,-1,-1,0],
 fh:false,
 fw:false,
 uid:9364,
@@ -10960,14 +10961,14 @@ iso:false,
 css:{
 430:{
 l:'-0.073%',
-t:'-0.130%',
+t:'0.000%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'0.000%',
 lvID:-1,
 w:'7.442%',
 h:'3.791%',
@@ -10986,14 +10987,14 @@ ipiv:1
 ,
 768:{
 l:'-0.073%',
-t:'-0.130%',
+t:'0.000%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'0.000%',
 lvID:-1,
 w:'4.167%',
 h:'3.125%',
@@ -11012,14 +11013,14 @@ ipiv:1
 ,
 1366:{
 l:'-0.073%',
-t:'-0.130%',
+t:'0.000%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'0.000%',
 lvID:-1,
 w:'2.343%',
 h:'4.167%',
@@ -11046,8 +11047,8 @@ JSONEffectData:false,
 bp:10,
 btha:1,
 fa:100,
-vbwr:[-2,-2,-1,-1],
-vb:[-2,-2,-1,-1]
+vbwr:[-2,-1,-1,0],
+vb:[-2,-1,-1,0]
 },
 si9440:{
 name:'Image_Grid_Group_14',
@@ -11919,6 +11920,7 @@ efph:{
 }
 ,
 eflh:[],
+oca:'{"scripts":[{"then":[["cp.goToSlide(9416,3416);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -12912,6 +12914,7 @@ efph:{
 }
 ,
 eflh:[],
+oca:'{"scripts":[{"then":[["cp.goToSlide(9486,4381);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -12938,7 +12941,7 @@ siq:false,
 isDD:false
 },
 si9504c:{
-b:[-2,-2,-1,-1],
+b:[-2,0,-1,1],
 fh:false,
 fw:false,
 uid:9504,
@@ -12946,14 +12949,14 @@ iso:false,
 css:{
 430:{
 l:'-0.073%',
-t:'-0.130%',
+t:'0.130%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'0.130%',
 lvID:-1,
 w:'7.442%',
 h:'3.791%',
@@ -12972,14 +12975,14 @@ ipiv:1
 ,
 768:{
 l:'-0.073%',
-t:'-0.130%',
+t:'0.130%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'0.130%',
 lvID:-1,
 w:'4.167%',
 h:'3.125%',
@@ -12998,14 +13001,14 @@ ipiv:1
 ,
 1366:{
 l:'-0.073%',
-t:'-0.130%',
+t:'0.130%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'0.130%',
 lvID:-1,
 w:'2.343%',
 h:'4.167%',
@@ -13032,8 +13035,8 @@ JSONEffectData:false,
 bp:10,
 btha:1,
 fa:100,
-vbwr:[-2,-2,-1,-1],
-vb:[-2,-2,-1,-1]
+vbwr:[-2,0,-1,1],
+vb:[-2,0,-1,1]
 },
 si9527:{
 name:'default_image4(2)_2',
@@ -15524,15 +15527,15 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-9486:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 9346:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
 9416:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+9486:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -26016,7 +26019,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.goToSlide(2866,1004);"]]}]}',
+oca:'{"scripts":[{"then":[["cp.goToSlide(2866,9743);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -26043,7 +26046,7 @@ siq:false,
 isDD:false
 },
 si2884c:{
-b:[-2,-2,-1,-1],
+b:[-2,-8,-1,-7],
 fh:false,
 fw:false,
 uid:2884,
@@ -26051,14 +26054,14 @@ iso:false,
 css:{
 430:{
 l:'-0.073%',
-t:'-0.130%',
+t:'-0.911%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'-0.911%',
 lvID:-1,
 w:'7.442%',
 h:'3.791%',
@@ -26077,14 +26080,14 @@ ipiv:1
 ,
 768:{
 l:'-0.073%',
-t:'-0.130%',
+t:'-0.911%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'-0.911%',
 lvID:-1,
 w:'4.167%',
 h:'3.125%',
@@ -26103,14 +26106,14 @@ ipiv:1
 ,
 1366:{
 l:'-0.073%',
-t:'-0.130%',
+t:'-0.911%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'-0.911%',
 lvID:-1,
 w:'2.343%',
 h:'4.167%',
@@ -26137,8 +26140,8 @@ JSONEffectData:false,
 bp:10,
 btha:1,
 fa:100,
-vbwr:[-2,-2,-1,-1],
-vb:[-2,-2,-1,-1]
+vbwr:[-2,-8,-1,-7],
+vb:[-2,-8,-1,-7]
 },
 si2900:{
 name:'Button_77',
@@ -35064,7 +35067,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.goToSlide(3864,1004);"]]}]}',
+oca:'{"scripts":[{"then":[["cp.goToSlide(3864,9743);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -81551,12 +81554,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-12110:{
-ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 12129:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+12110:{
+ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -111183,12 +111186,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-14453:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 14431:{
 ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+14453:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -140821,11 +140824,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-20514:{
+20536:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-20536:{
+20514:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -146863,11 +146866,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-21030:{
+21242:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-21242:{
+21030:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -152905,12 +152908,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-22332:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 22354:{
 ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+22332:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -155926,11 +155929,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-21684:{
+21706:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
-21706:{
+21684:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -183882,7 +183885,7 @@ prjBgColor:'#ffffff',
 pkt:0,
 htmlBgColor:'#f5f4f1',
 shc:false,
-pN:'2025-07-22 CLS Quick Guide.cpt'
+pN:'2025-07-28 CLS Quick Guide.cpt'
 },
 projectThemeData:{
 customisations:'{"user_renames":{}}',
